@@ -8,3 +8,5 @@ k = Number of Gaussians <br />
 alpha = learning rate/step <br />
 weightThresh = maximum weight for a gaussian (if greater then normalized)<br />
 inSigma = initial value of standard deviation
+
+![](umcp.gif)
